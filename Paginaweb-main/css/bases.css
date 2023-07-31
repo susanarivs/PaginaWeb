@@ -1,0 +1,16 @@
+html {
+    scroll-behavior: smooth;
+    background-color: #3d0344;
+}
+
+body {
+    font-family: 'Handjet', cursive;
+    font-family: 'Orbitron', sans-serif;
+    
+    background-color: #6a3f77;
+    color: #dcdae5;
+}
+
+strong {
+    font-weight: bolder;
+}

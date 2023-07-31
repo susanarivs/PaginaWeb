@@ -1,0 +1,15 @@
+html { 
+     background: rgba(54, 2, 65, 0.692);
+    background: linear-gradient(180deg, rgb(111, 83, 134) 11%, rgb(10, 85, 98) 70%, rgb(42, 94, 103) 100%);
+ 
+    text-align: center;
+} 
+
+embed {
+    background: rgb(171,136,199,0.81);
+    background: linear-gradient(180deg, rgba(171,136,199,0.81) 60%, rgba(171,136,199,1) 60%, rgba(145,184,193,1) 100%);
+    width: 100vw;
+    height: 100vh;
+    margin: 0 auto;
+    cursor: pointer;
+}
